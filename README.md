@@ -1,3 +1,7 @@
+## Exploratory Data Analysis 
+
+This repository contains files related to the course Exploratory Data Analysis offered through Coursera. 
+
 ## Introduction
 
 This assignment uses data from
